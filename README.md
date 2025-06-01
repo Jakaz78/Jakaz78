@@ -13,8 +13,13 @@ fields_of_interests:
     "Data Science",
     "Machine Learning",
   ]
+licenses and certifications:
+  [
+    "Python for Data Science, AI & Development"
+  ]
 currently_learning: ["Python"]
 hobbies: ["Gaming", "Gym", "Ski", "Stock market"]
+
 ```
 
 ## 🚀 Tools I Have Used and Learned
