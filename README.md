@@ -1,3 +1,22 @@
+```yaml
+name: Jakub Kazmierczyk
+located_in: Krakow, Poland
+current_job: Trading and Supply Intern
+education:
+  [
+    "Second-year Bachelor's student in Data Science and Econometric",
+  ]
+company: Shell
+fields_of_interests:
+  [
+    "Web Development",
+    "Data Science",
+    "Machine Learning",
+  ]
+currently_learning: ["Python"]
+hobbies: ["Gaming", "Gym", "Ski", "Stock market"]
+```
+
 ## 🚀 Tools I Have Used and Learned
 
 ### Front‑end
