@@ -7,8 +7,7 @@
 name: "Jakub Kazmierczyk"
 located_in: "Krakow, Poland"
 current_job: "Trading and Supply Intern"
-education:![Uploading Abstergo.gif…]()
-
+education:
   [
     "Second-year Bachelor's student in Data Science and Econometric"
   ]
