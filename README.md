@@ -1,8 +1,8 @@
 
-
-![Abstergo](https://github.com/user-attachments/assets/e8119373-3f50-470d-9da5-edfccdd9aedc)
-
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/e8119373-3f50-470d-9da5-edfccdd9aedc" alt="Abstergo Industries Logo">
+</div>
+  
 ```yaml
 name: "Jakub Kazmierczyk"
 located_in: "Krakow, Poland"
