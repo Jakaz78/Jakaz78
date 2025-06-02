@@ -1,5 +1,6 @@
 
-<img src="https://github.com/user-attachments/assets/350b029f-f21d-43b9-852b-827fe0f1a07e" alt="Tekst alternatywny" width="300">
+
+![Abstergo](https://github.com/user-attachments/assets/a30eaccc-7cc1-43a6-9dea-1defa284a56d)
 
 ```yaml
 name: "Jakub Kazmierczyk"
