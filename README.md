@@ -1,6 +1,7 @@
 
 
-![Abstergo](https://github.com/user-attachments/assets/a30eaccc-7cc1-43a6-9dea-1defa284a56d)
+![Abstergo](https://github.com/user-attachments/assets/e8119373-3f50-470d-9da5-edfccdd9aedc)
+
 
 ```yaml
 name: "Jakub Kazmierczyk"
