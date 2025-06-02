@@ -17,8 +17,14 @@ licenses and certifications:
   [
     "Python for Data Science, AI & Development"
   ]
-currently_learning: ["Python"]
-hobbies: ["Gaming", "Gym", "Ski", "Stock market"]
+currently_learning:
+  [
+    "Python"
+  ]
+hobbies:
+  [
+    "Gaming", "Gym", "Ski", "Stock market"
+  ]
 
 ```
 
