@@ -6,7 +6,7 @@ education:
   [
     "Second-year Bachelor's student in Data Science and Econometric"
   ]
-company: Shell
+company: "Shell"
 fields_of_interests:
   [
     "Web Development",
