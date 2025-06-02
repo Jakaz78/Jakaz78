@@ -1,8 +1,12 @@
+
+<img src="https://github.com/user-attachments/assets/350b029f-f21d-43b9-852b-827fe0f1a07e" alt="Tekst alternatywny" width="300">
+
 ```yaml
 name: "Jakub Kazmierczyk"
 located_in: "Krakow, Poland"
 current_job: "Trading and Supply Intern"
-education:
+education:![Uploading Abstergo.gif…]()
+
   [
     "Second-year Bachelor's student in Data Science and Econometric"
   ]
