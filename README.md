@@ -23,7 +23,10 @@ currently_learning:
   ]
 hobbies:
   [
-    "Gaming", "Gym", "Ski", "Stock market"
+    "Gaming",
+    "Gym",
+    "Ski",
+    "Stock market"
   ]
 
 ```
