@@ -1,7 +1,7 @@
 ```yaml
-name: Jakub Kazmierczyk
-located_in: Krakow, Poland
-current_job: Trading and Supply Intern
+name: "Jakub Kazmierczyk"
+located_in: "Krakow, Poland"
+current_job: "Trading and Supply Intern"
 education:
   [
     "Second-year Bachelor's student in Data Science and Econometric"
@@ -11,7 +11,7 @@ fields_of_interests:
   [
     "Web Development",
     "Data Science",
-    "Machine Learning",
+    "Machine Learning"
   ]
 licenses and certifications:
   [
