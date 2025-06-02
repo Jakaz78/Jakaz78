@@ -4,7 +4,7 @@ located_in: Krakow, Poland
 current_job: Trading and Supply Intern
 education:
   [
-    "Second-year Bachelor's student in Data Science and Econometric",
+    "Second-year Bachelor's student in Data Science and Econometric"
   ]
 company: Shell
 fields_of_interests:
