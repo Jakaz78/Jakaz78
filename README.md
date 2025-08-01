@@ -18,7 +18,7 @@ fields_of_interests:
     "Data Science",
     "Machine Learning"
   ]
-licenses and certifications:
+licenses_and_certifications:
   [
     "Python for Data Science, AI & Development"
   ]
