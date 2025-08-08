@@ -20,7 +20,8 @@ fields_of_interests:
   ]
 licenses_and_certifications:
   [
-    "Python for Data Science, AI & Development"
+    "Python for Data Science, AI & Development",
+    "Using Python for Automation"
   ]
 currently_learning:
   [
