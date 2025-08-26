@@ -21,11 +21,13 @@ fields_of_interests:
 licenses_and_certifications:
   [
     "Python for Data Science, AI & Development",
-    "Using Python for Automation"
+    "Using Python for Automation",
+    "Data Analysis with Python and Pandas",
+    "Learning Kubernetes"
   ]
 currently_learning:
   [
-    "Python"
+    "Kubernetes"
   ]
 hobbies:
   [
@@ -33,6 +35,7 @@ hobbies:
     "Gym",
     "Ski",
     "Stock market"
+    "AI"
   ]
 
 ```
