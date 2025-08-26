@@ -34,7 +34,7 @@ hobbies:
     "Gaming",
     "Gym",
     "Ski",
-    "Stock market"
+    "Stock market",
     "AI"
   ]
 
