@@ -6,7 +6,7 @@
 ```yaml
 name: "Jakub Kazmierczyk"
 located_in: "Krakow, Poland"
-current_job: "Supply Chain Support Analyst Intern"
+current_job: "Supply Chain Support Analyst"
 education:
   [
     "Second-year Bachelor's student in Data Science and Econometric"
