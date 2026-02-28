@@ -6,12 +6,12 @@
 ```yaml
 name: "Jakub Kazmierczyk"
 located_in: "Krakow, Poland"
-current_job: "Supply Chain Support Analyst"
+current_job: "Process Automation Intern"
 education:
   [
     "Second-year Bachelor's student in Data Science and Econometric"
   ]
-company: "Shell"
+company: "Capgemini"
 fields_of_interests:
   [
     "Web Development",
