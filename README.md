@@ -6,15 +6,15 @@
 ```yaml
 name: "Jakub Kazmierczyk"
 located_in: "Krakow, Poland"
-current_job: "Process Automation Intern"
+current_job: "Process Automation Developer"
 education:
   [
-    "Second-year Bachelor's student in Data Science and Econometric"
+    "Bachelor's in COmputer Science and Econometric"
+    "1th Year in Master in Computer Science and Econometrics"
   ]
 company: "Capgemini"
 fields_of_interests:
   [
-    "Web Development",
     "Data Science",
     "Machine Learning"
   ]
@@ -23,7 +23,9 @@ licenses_and_certifications:
     "Python for Data Science, AI & Development",
     "Using Python for Automation",
     "Data Analysis with Python and Pandas",
-    "Learning Kubernetes"
+    "Learning Kubernetes",
+    "UiPath Certified Professional Automation Developer Professional", 
+    "UiPath Certified Professional Automation AI Developer Professional"
   ]
 currently_learning:
   [
