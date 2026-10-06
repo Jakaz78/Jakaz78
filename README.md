@@ -46,24 +46,27 @@
 }
 ```
 
-## 🚀 Tools I Have Used and Learned
+## 🚀 Tools & Technologies
 
-### Front‑end
-
-![Skills](https://skills.syvixor.com/api/icons?i=html,css3,blazor,wordpress)
-
----
-
-### Back‑end
-![Skills](https://skills.syvixor.com/api/icons?i=c,csharp)
+### Data Science & Machine Learning
+![Data Science](https://skills.syvixor.com/api/icons?i=python,pandas,numpy,scipy,scikitlearn,pytorch,tensorflow,matplotlib,jupyter,kaggle,r,googlecolaboratory&perline=12&radius=40)
 
 ---
 
-### Data science
-![Skills](https://skills.syvixor.com/api/icons?i=python,excel,powerbi,r,markdown,pandas,numpy,pytorch,scikitlearn)
+### Data Engineering & Back-end
+![Back-end](https://skills.syvixor.com/api/icons?i=sql,postgresql,mysql,csharp,django,flask,redis,rest&perline=12&radius=40)
 
 ---
 
-### DevOps / Tools
-![Skills](https://skills.syvixor.com/api/icons?i=azure,git,github,sap,chatgpt,sqlserver,visualstudio,visualstudiocode,pycharm)
+### DevOps, Cloud & Architecture
+![DevOps](https://skills.syvixor.com/api/icons?i=docker,kubernetes,azure,linux,ubuntu,debian,bash,powershell,proxmox,git,github&perline=12&radius=40)
 
+---
+
+### Homelab & Self-Hosting 
+![Homelab](https://skills.syvixor.com/api/icons?i=cloudflare,tailscale,homeassistant,nginx&perline=12&radius=40)
+
+---
+
+### Tools & Enterprise
+![Tools](https://skills.syvixor.com/api/icons?i=visualstudio,visualstudiocode,sap,jira,markdown&perline=12&radius=40)
