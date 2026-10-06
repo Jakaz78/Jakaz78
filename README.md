@@ -4,42 +4,46 @@
 </div>
 
 ```yaml
-name: "Jakub Kazmierczyk"
-located_in: "Krakow, Poland"
-current_job: "Process Automation Developer"
-education:
-  [
-    "Bachelor's in COmputer Science and Econometric"
-    "1th Year in Master in Computer Science and Econometrics"
-  ]
-company: "Capgemini"
-fields_of_interests:
-  [
+{
+  "name": "Jakub Kazmierczyk",
+  "located_in": "Krakow, Poland",
+  "current_role": "Process Automation Developer @ Capgemini",
+  "education": [
+    "BSc in Computer Science and Econometrics",
+    "MSc in Computer Science and Econometrics (1st Year)"
+  ],
+  "fields_of_interest": [
+    "Data Engineering",
     "Data Science",
     "Machine Learning"
-  ]
-licenses_and_certifications:
-  [
+  ],
+  "tech_stack": [
+    "Python", 
+    "SQL", 
+    "Pandas", 
+    "Docker", 
+    "Linux"
+  ],
+  "certifications": [
     "Python for Data Science, AI & Development",
-    "Using Python for Automation",
     "Data Analysis with Python and Pandas",
+    "Using Python for Automation",
     "Learning Kubernetes",
-    "UiPath Certified Professional Automation Developer Professional", 
-    "UiPath Certified Professional Automation AI Developer Professional"
-  ]
-currently_learning:
-  [
-    "Kubernetes"
-  ]
-hobbies:
-  [
+    "UiPath Certified Professional (Developer & AI)"
+  ],
+  "currently_learning": [
+    "Kubernetes",
+    "Data Architecture"
+  ],
+  "hobbies": [
+    "Homelab & Self-hosting",
+    "Stock Market",
+    "AI",
     "Gaming",
     "Gym",
-    "Ski",
-    "Stock market",
-    "AI"
+    "Skiing"
   ]
-
+}
 ```
 
 ## 🚀 Tools I Have Used and Learned
